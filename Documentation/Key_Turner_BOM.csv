@@ -1,0 +1,35 @@
+﻿Device:,Key Turner,,,,,,,,,,,,
+Version:, V1.0,,,,,,,,,,,,
+Last Updated:,2026-02-04,,,,,,,,,,,,
+,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
+,,,,,,,,12.44,, $1.69 , $8.45 ,,
+ID,Commercial Parts,,,,,,,,, $1.38 , $8.14 ,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+,,M4 x 12 mm bolt,,,,1,5,1, $3.99 , $0.80 , $3.99 ,,https://www.homehardware.ca/en/5-pack-m4-x-12mm-zinc-plated-pan-head-machine-screws/p/2122013?srsltid=AfmBOoqVamL_jPM6vJr6lG82_48c2uedojm88KcRuxqk92tlzoqbw_n1
+,,M4 hex nut,,,,1,1,1, $0.18 , $0.18 , $0.18 ,,https://www.homedepot.ca/product/paulin-m4-0-70-class-8-metric-hex-nut-din-934-zinc-plated/1000128515
+,,M4 Washer,,,,2,20,1, $3.97 , $0.40 , $3.97 ,,https://www.homedepot.ca/product/paulin-metric-flat-washers-4mm-20pcs/1001588032
+,3D Printed Parts,,,,,,,12.44,, $0.31 , $0.31 ,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+,Key_Turner.stl,Key turner body,PLA,,Any,1,12.44,12.44, $25.00 , $0.31 , $0.31 ,,
+,,,,,,,,,,,,,
+,Tools,*Tools are only required when attaching the key to the key turner*,,,,,,,,,,,
+,Tool,Description,,Manufacturer,Supplier,,,,,,,,Link
+,Screw driver,Screwdriver that matches the head of the bolts purchased,,,,,,,,,,,
+,Wrench/pliers,To hold the nut while tightening the bolt,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Alternatives,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+,,"#8-1/2"" bolt",,,,1,,,,,,,
+,,#8 hex nut,,,,1,,,,,,,
+,,#8 washers,,,,2,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
